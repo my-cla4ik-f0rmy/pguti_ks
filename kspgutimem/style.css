@@ -1,0 +1,13 @@
+@use "@material/button/styles";
+
+@use "@material/floating-label/mdc-floating-label";
+@use "@material/line-ripple/mdc-line-ripple";
+@use "@material/notched-outline/mdc-notched-outline";
+@use "@material/textfield";
+
+@use "@material/radio/styles";
+@use "@material/form-field";
+
+@include form-field.core-styles;
+
+@include textfield.core-styles;
